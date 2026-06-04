@@ -26,5 +26,4 @@ based on the following agreed values:
 -----------------------------------------------------------------------------
 C3D Community CIC is a Community Interest Company registered in England.
 Registered number: 15780460.
-Registered office: Unit 2 Victoria Mills, Fowke Street, Rothley,
-                   Leicestershire, LE7 7PJ, United Kingdom​.
+Registered office: Roger House, Osney Mead, Oxford, OX2 0ES​, United Kingdom.
